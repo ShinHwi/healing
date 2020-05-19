@@ -12,3 +12,7 @@ body, html {
   .nav_color {
     background-color: #8BBDFF;
 }
+.ad-banner{
+    width: 320px;
+    margin: 0 auto;
+}
