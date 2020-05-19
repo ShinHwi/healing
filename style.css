@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    background-image: url("image/sunset-1373171_1920.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .nav_color {
+    background-color: #8BBDFF;
+}
