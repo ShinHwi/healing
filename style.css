@@ -1,14 +1,15 @@
 body, html {
     height: 100%;
-  }
-  .bg-img {
+}
+
+.bg-img {
     background-image: url("image/sunset-1373171_1920.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
-  .nav_color {
+.nav_color {
     background-color: #8BBDFF;
 }
